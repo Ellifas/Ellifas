@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, welcome to my profile!  👋
 ![Ellifas' GitHub stats](https://github-readme-stats.vercel.app/api?username=Ellifas&show_icons=true&theme=synthwave)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ellifas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <div style="display: inline_block"><br/>
