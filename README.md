@@ -34,16 +34,20 @@
 
 ###
 
-<h3 align="left">📄 My Resumes</h3>
+<h3 align="center">📄 My Resumes</h3>
 
-<div align="center">
-  <a href="https://docs.google.com/document/d/1nnDhZx73qjOANtfK8qcrgsMnS2n_c0EORn2cQVs4Smg/export?format=pdf" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Currículo%20PT-BR&logo=adobeacrobatreader&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="Currículo em Português" />
+<div align="center" style="display:flex; gap:10px; justify-content:center; flex-wrap:wrap; margin-bottom:20px;">
+  <a href="https://docs.google.com/document/d/1nnDhZx73qjOANtfK8qcrgsMnS2n_c0EORn2cQVs4Smg/export?format=pdf" target="_blank" 
+     style="background-color:#FF0000; color:white; padding:12px 25px; border-radius:8px; text-decoration:none; font-weight:bold; font-family:sans-serif; display:inline-block;">
+    Currículo PT-BR
   </a>
-  <a href="https://docs.google.com/document/d/1pBUuaN4s8WLNmVYXL0RYv7qgXdj_pfaPLd8mxOuE4wo/export?format=pdf" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Resume%20EN&logo=adobeacrobatreader&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="Resume in English" />
+
+  <a href="https://docs.google.com/document/d/1pBUuaN4s8WLNmVYXL0RYv7qgXdj_pfaPLd8mxOuE4wo/export?format=pdf" target="_blank" 
+     style="background-color:#007BFF; color:white; padding:12px 25px; border-radius:8px; text-decoration:none; font-weight:bold; font-family:sans-serif; display:inline-block;">
+    Resume EN
   </a>
 </div>
+
 
 ###
 
