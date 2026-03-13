@@ -30,7 +30,7 @@
 
 <h3 align="left">👩‍💻 About Me</h3>
 
-<p align="left">I'm Ellifas from Campina Grande<br><br>- 🔭 I’m working as Network and infraesctructure Helpdesk<br>- 📚 I'm currently learning C# and .NET<br>- ⚡ In my free time I like to play and practice sports</p>
+<p align="left">I'm Ellifas from Campina Grande<br><br>- 🔭 I’m working as Mid-Level Developer <br>- ⚡ In my free time I like to play and practice sports</p>
 
 ###
 
