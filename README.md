@@ -35,12 +35,10 @@
 ###
 
 <h3 align="center">📄 My Resumes</h3>
+
 <div align="center" style="margin: 20px 0;">
-  <a href="https://docs.google.com/document/d/1nnDhZx73qjOANtfK8qcrgsMnS2n_c0EORn2cQVs4Smg/export?format=pdf" target="_blank">
-    <img src="https://img.shields.io/badge/🇺🇸%20Resume%20EN-3498DB?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white&labelColor=2980B9" alt="Resume in English" height="40"/>
-  </a>
   <img width="20"/>
-  <a href="https://docs.google.com/document/d/1pBUuaN4s8WLNmVYXL0RYv7qgXdj_pfaPLd8mxOuE4wo/export?format=pdf" target="_blank">
+  <a href="https://drive.google.com/file/d/1rJPRf2Rqydh1N3OD5zVENumloUCaK3Jp/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/🇧🇷%20Currículo%20PT--BR-E74C3C?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white&labelColor=C0392B" alt="Currículo em Português" height="40"/>
   </a>
 </div>
